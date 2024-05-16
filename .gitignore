@@ -3,3 +3,5 @@
 .idea
 application/.mason
 application/mason-lock.json
+.mason/bricks.json
+mason-lock.json

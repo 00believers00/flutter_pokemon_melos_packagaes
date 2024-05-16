@@ -1,0 +1,9 @@
+bricks:
+  bloc_freezed:
+     git:
+       url: https://github.com/00believers00/mason
+       path: bricks/bloc_freezed
+  model_freezed:
+     git:
+       url: https://github.com/00believers00/mason
+       path: bricks/model_freezed
